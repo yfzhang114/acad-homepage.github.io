@@ -29,7 +29,7 @@ I'm the first year PhD student at the State Key Laboratory of Pattern Recognitio
 
 [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839), Hanlin Zhang*, Yi-Fan Zhang*, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing
 
-**CVPR, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lUnt8X4AAAAJ&citation_for_view=lUnt8X4AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**CVPR, 2022 |  ICML Workshop on Machine Learning for Data: Automated Creation, Privacy, Bias, 2021.** \| [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lUnt8X4AAAAJ&citation_for_view=lUnt8X4AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [**Code**](https://github.com/hlzhang109/DDG)
 -  DDG jointly learns semantic and variation encoders for disentanglement, enabling flexible manipulation and augmentation on training data. 
 </div>
 </div>
